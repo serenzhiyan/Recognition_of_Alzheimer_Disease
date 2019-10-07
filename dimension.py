@@ -1,3 +1,4 @@
+# 使用主成分分析的方法进行降维
 import pandas as pd
 import numpy as np
 from sklearn.decomposition import PCA
